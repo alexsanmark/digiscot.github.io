@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Orkney Community Digital Heritage 
-excerpt: Teaching older people how to use digital technology through the app Fieldwork GB
+excerpt: Teaching older people how to use digital technology through the EDINA app Fieldwork GB
 lead: Centre for Nordic Studies
-website: http://www.uhi.ac.uk/en/research-enterprise/cultural/centre-for-nordic-studies
-email: 
-twitter: 
-facebook: 
+website: http://www.nordic.uhi.ac.uk
+email:cns@uhi.ac.uk 
+twitter:@NordicUHI
+facebook: UHI Centre for Nordic Studies
 start: May 2015
 end: December 2015 
 award: £8091
@@ -15,6 +15,8 @@ permalink: /projects/centre-nordic/
 ---
 
 ## Project plan
+
+
 
 ### Project description
 
